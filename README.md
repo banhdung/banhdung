@@ -4,7 +4,7 @@
 </p>
 <br />
 
-## Languages and Tools::
+## Languages and Tools:
 <p align="center">
  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
