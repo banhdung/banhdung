@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm banhdung</h1>
-<p align="center">
-  <h3 align="center">I’m currently learning FPT University</h3>
-</p>
 <br />
 
 ## Languages and Tools:
